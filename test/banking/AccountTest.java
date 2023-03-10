@@ -20,7 +20,6 @@ public class AccountTest {
     @Test
     public void shouldCreateANewAccount() {
         assertNotNull(sut);
-
     }
 
 }
